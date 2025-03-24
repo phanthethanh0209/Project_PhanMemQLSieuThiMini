@@ -1,0 +1,21 @@
+Tài khoản:
+
+- Quản lý
+	TenTK: BaoTran
+	Pass: Thanhdzai123@
+
+- Nhân viên thu ngân
+	TenTK: TheThanh
+	Pass: Thanh123@
+
+- Nhân viên kho
+	TenTK: BaoTranhaha
+	Pass: Tran123456@
+
+- Bộ phận kinh doanh
+	TenTK: Baobao123
+	Pass: Thanhdzai123@
+
+
+SDT NCC: 0916649073
+SDT KH: 0123456789

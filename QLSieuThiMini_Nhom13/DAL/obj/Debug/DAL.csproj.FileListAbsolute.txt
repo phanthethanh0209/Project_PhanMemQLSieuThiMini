@@ -1,0 +1,999 @@
+D:\HK7\PT PMUDTM\Đồ án\gộp\DoAnPTUDTM_QLSieuThiMini-phanthethanh0209\Tuan6\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\gộp\DoAnPTUDTM_QLSieuThiMini-phanthethanh0209\Tuan6\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\DoAnPTUDTM_QLSieuThiMini-phanthethanh0209\Tuan6\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\gộp\DoAnPTUDTM_QLSieuThiMini-phanthethanh0209\Tuan6\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\DoAnPTUDTM_QLSieuThiMini-phanthethanh0209\Tuan6\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\gộp\DoAnPTUDTM_QLSieuThiMini-phanthethanh0209\Tuan6\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\gộp\DoAnPTUDTM_QLSieuThiMini-phanthethanh0209\Tuan6\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\gộp\DoAnPTUDTM_QLSieuThiMini-phanthethanh0209\Tuan6\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\gộp\DoAnPTUDTM_QLSieuThiMini-phanthethanh0209\Tuan6\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\DoAnPTUDTM_QLSieuThiMini-phanthethanh0209\Tuan6\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_Tuan7_main\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_Tuan7_main\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_Tuan7_main\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_Tuan7_main\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_Tuan7_main\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_Tuan7_main\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_Tuan7_main\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_Tuan7_main\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_Tuan7_main\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_Tuan7_main\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAnPTUDTM_QLSieuThiMini\Tuan7\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\06_10_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\_01.PHATTRIENUDPM\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\gộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\13_10_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\20_10_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\27_10_2024\QLSieuThiMini_Nhom13_1\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\07_11_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Downloads\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\08_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\09_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\12_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\15_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\19_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\20_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\22_11_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\_01.PHATTRIENUDPM\29.11_KhuyenMai\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\01_12_2024\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Core.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Data.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.DataView.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.PCA.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Transforms.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.CodeDom.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Collections.Immutable.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Tensors.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Channels.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll.config
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Core.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Data.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.DataView.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.PCA.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Transforms.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Collections.Immutable.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Tensors.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Channels.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\BCrypt.Net-Next.dll
+D:\_01.PHATTRIENUDPM\2.12_PhieuNhapXong\QLSieuThiMini_Nhom13\DAL\bin\Debug\BCrypt.Net-Next.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Core.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Data.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.DataView.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.PCA.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Transforms.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.CodeDom.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Collections.Immutable.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Tensors.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Channels.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll.config
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Core.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Data.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.DataView.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.PCA.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Transforms.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Collections.Immutable.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Tensors.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Channels.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Core.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Data.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.DataView.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.PCA.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Transforms.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.CodeDom.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Collections.Immutable.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Tensors.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Channels.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll.config
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Core.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Data.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.DataView.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.PCA.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Transforms.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Collections.Immutable.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Tensors.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Channels.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.Shared.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\stdole.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.Shared.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Core.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Data.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.DataView.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.PCA.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Transforms.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.CodeDom.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Collections.Immutable.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Tensors.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Channels.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\stdole.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll.config
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Core.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Data.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.DataView.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.PCA.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Transforms.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Collections.Immutable.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Tensors.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Channels.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\HK7\PT PMUDTM\Đồ án\03_12_2024\nộp\QLSieuThiMini_Nhom13\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.Shared.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Core.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Data.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.DataView.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.PCA.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Transforms.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.CodeDom.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Collections.Immutable.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Tensors.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Channels.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\stdole.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll.config
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Core.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Data.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.DataView.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.PCA.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Transforms.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Collections.Immutable.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Tensors.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Channels.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\CNTT\Thuc_hanh\TH_PhatTrienPhanMemVaUngDungThongMinh\DoAn\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll.config
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DAL.pdb
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Core.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Data.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.DataView.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.PCA.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Transforms.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.CodeDom.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Collections.Immutable.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Tensors.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Channels.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\stdole.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.pdb
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\DTO.dll.config
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Core.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Data.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.DataView.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.PCA.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Microsoft.ML.Transforms.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Buffers.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Collections.Immutable.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Memory.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Tensors.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Text.Json.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Channels.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\bin\Debug\System.ValueTuple.xml
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.dll
+D:\_01.PHATTRIENUDPM\_9.12_BinhGuiCodeCoThongKe\QLSieuThiMini_Nhom13 (1)\QLSieuThiMini_Nhom13\DAL\obj\Debug\DAL.pdb
